@@ -1,0 +1,6 @@
+Task: Take 12 player names by the user and select a random player as captain.
+
+Use Java concept:	Different classes,
+			Using array
+			Using the Random method by the programmer
+			Java.util.*;  // package
