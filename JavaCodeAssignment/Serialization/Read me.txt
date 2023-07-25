@@ -1,0 +1,1 @@
+Task: Read data from the file and Append the data taking user input then write in the file using Serialization and deserialization.
