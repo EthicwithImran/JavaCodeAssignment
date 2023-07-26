@@ -1,0 +1,6 @@
+task :icecream factory
+  
+
+
+we are using nested class concept
+we are using static inner class, Outer class, Static,non Static,etc
